@@ -1,3 +1,5 @@
+***Optional:***
+
 **How to access the Behaviour Packs and the Resource Packs:**
 
 1. Rename the "The Hive.mcworld" to "The hive.zip"
